@@ -73,10 +73,9 @@ const Contact = () => {
 
       <div className="flex flex-col items-center justify-center max-w-md p-5 mx-auto border border-white/10 rounded-2xl bg-primary">
         <div className="flex flex-col items-start w-full gap-5 mb-10">
-          <h2 className="text-heading">Let's Talk</h2>
+          <h2 className="text-heading">Let's Connect</h2>
           <p className="font-normal text-neutral-400">
-            Whether you're looking to build a new website, improve your existing
-            platform, or bring a unique project to life, I'm here to help.
+        
           </p>
         </div>
         <form className="w-full" onSubmit={handleSubmit}>
@@ -89,7 +88,7 @@ const Contact = () => {
               name="name"
               type="text"
               className="field-input field-input-focus"
-              placeholder="John"
+              placeholder="Tanya"
               autoComplete="name"
               value={formData.name}
               onChange={handleChange}
@@ -105,7 +104,7 @@ const Contact = () => {
               name="email"
               type="email"
               className="field-input field-input-focus"
-              placeholder="john@email.com"
+              placeholder="tanya@email.com"
               autoComplete="email"
               value={formData.email}
               onChange={handleChange}

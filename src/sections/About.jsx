@@ -57,12 +57,12 @@ const About = () => {
             />
             <Card
               style={{ rotate: "-45deg", top: "55%", left: "0%" }}
-              text="Introduction to Cybersecurity course by Cisco Networking Academy"
+              text="Cybersecurity by Cisco"
               containerRef={grid2Container}
             />
               <Card
               style={{ rotate: "-45deg", top: "55%", left: "0%" }}
-              text="Machine Learning Onramp course by MathWorks"
+              text="ML Onramp by MathWorks"
               containerRef={grid2Container}
             />
             <Card

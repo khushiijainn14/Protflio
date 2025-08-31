@@ -91,9 +91,7 @@ export const education = [
     points: [
       "",
       "CGPA:9.63 upto 2nd semester",
-      "Current Semester: Focusing on advanced topics such as Artificial Intelligence & Machine Learning (AIML), Cybersecurity, Distributed Computing, Cognitive Computing, and Big Data Analytics.",
-      "Previous Semesters: Completed courses in Data Analysis, Design & Analysis of Algorithms, Data Communication & Networking, Compiler Design, Web Development, .NET Framework, Software Engineering, Operating Systems, Java, Data Structures, and Theory of Computation.",
-      "Project Work: Developed GoHire, a comprehensive job hiring portal aimed at streamlining the recruitment process for both employers and candidates."
+     
     ],
   },
   {
@@ -102,9 +100,7 @@ export const education = [
     date: "2021 - 2024",
     points: [
       "CGPA:9.12",
-      "Mathematics: Studied a wide range of mathematical subjects that strengthened my problem-solving, logical reasoning, and quantitative abilities.",
-      "Physics: Gained a solid understanding of core physics concepts, enhancing my analytical thinking and scientific approach to problem-solving.",
-      "Computer Science: Learned the fundamentals of programming, algorithms, and computer systems, which laid the groundwork for my advanced studies in Computer Science at the Master’s level."
+     
     ],
   },
   {
@@ -113,7 +109,7 @@ export const education = [
     date: "2020 - 2021",
     points: [
       "Percentage:86.6%",
-      "In my 12th class, I pursued the Science stream with a focus on Mathematics, Physics, and Chemistry. This academic background helped me develop strong logical reasoning, problem-solving skills, and a scientific mindset, forming the foundation for my further studies in Computer Science."
+      
       
     ],
   },
@@ -122,8 +118,8 @@ export const education = [
     company_name: "Reginal English School",
     date: "2018 - 2019",
     points: [
-      "Percentage:8417%",
-      "In my 10th class, I studied a wide range of subjects including Science, Mathematics, English, Hindi, and Sanskrit, along with other general subjects. This diverse curriculum provided me with a strong academic foundation, improved my analytical and communication skills, and prepared me for specialization in the Science stream in higher education.",
+      "Percentage:84.17%",
+
       
     ],
   },
